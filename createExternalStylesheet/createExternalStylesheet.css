@@ -1,0 +1,9 @@
+h1{
+	writing-mode: vertical-lr;
+	color: red;
+}
+h2{
+	text-orientation: upright;
+	color: green;
+}
+
